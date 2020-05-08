@@ -1,0 +1,69 @@
+{
+  "stock": [
+  {
+    "id": 1,
+    "amount": 3
+  },
+  {
+    "id": 2,
+    "amount": 5
+  },
+  {
+    "id": 3,
+    "amount": 2
+  },
+  {
+    "id": 4,
+    "amount": 1
+  },
+  {
+    "id": 1,
+    "amount": 3
+  },
+  {
+    "id": 5,
+    "amount": 5
+  },
+  {
+    "id": 6,
+    "amount": 10
+  }],
+  "products":[
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_zoom2.jpg?ts=1586961574&ims=326x"
+    },
+    {
+      "id": 2,
+      "title": "Tênis de Caminhada Leve",
+      "price": 189.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_zoom2.jpg?ts=1586961574&ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Tênis de Caminhada ",
+      "price": 139.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_zoom2.jpg?ts=1586961574&ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Tênis ",
+      "price": 199.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_zoom2.jpg?ts=1586961574&ims=326x"
+    },
+    {
+      "id": 5,
+      "title": "Tênis Confortável",
+      "price": 119.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_zoom2.jpg?ts=1586961574&ims=326x"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Leve",
+      "price": 129.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-de-caminhada-leve-confortavel/06/E74-0492-006/E74-0492-006_zoom2.jpg?ts=1586961574&ims=326x"
+    }
+  ]
+}

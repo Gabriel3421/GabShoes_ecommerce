@@ -1,6 +1,6 @@
 # GabShoes_ecommerce
 Um conceito de loja de sapatos (loja online)
-#Ferramentas utilizadas
+# Ferramentas utilizadas
 > ReactJS;
 > Redux + Saga;
 > Reactotron;
